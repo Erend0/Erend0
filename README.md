@@ -1,3 +1,3 @@
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erend0&theme=onedark&layout=compact" width="100">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erend0&theme=onedark&layout=compact" width="10000">
 <br>
